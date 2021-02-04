@@ -1,0 +1,17 @@
+{
+  "name": "rare-pepe-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rare-pepe-api": "^1.0.0"
+  }
+}
